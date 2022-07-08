@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addAdditionalSelectionStart:selectionStop:" : "WoC 6/11/2022 02:12",
+		"additionalSelectionColor" : "WoC 6/11/2022 02:46",
+		"additionalUnfocusedSelectionColor" : "WoC 6/11/2022 03:28",
+		"clearAdditionalSelections" : "WoC 6/11/2022 02:13",
+		"displayAdditionalSelectionFrom:to:In:on:" : "WoC 6/11/2022 03:26",
+		"displayAdditionalSelectionsIn:on:" : "WoC 6/11/2022 02:53",
+		"displayOn:using:at:" : "WoC 6/11/2022 03:14",
+		"selectAllSimilar" : "WoC 6/11/2022 03:13" } }

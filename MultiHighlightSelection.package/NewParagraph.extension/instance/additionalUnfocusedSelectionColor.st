@@ -1,0 +1,3 @@
+*MultiHighlightSelection
+additionalUnfocusedSelectionColor
+	^ additionalUnfocusedSelectionColor ifNil: [Color yellow muchLighter]
